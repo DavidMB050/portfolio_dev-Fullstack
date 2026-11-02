@@ -1,3 +1,7 @@
+
+<img width="1918" height="871" alt="portfoliodevfull" src="https://github.com/user-attachments/assets/7c2aa3aa-51a5-48d9-9bb4-b9855206d68a" />
+
+
 # Portfolio Fullstack – David Mbougueng
 
 ## 📌 Présentation du projet
