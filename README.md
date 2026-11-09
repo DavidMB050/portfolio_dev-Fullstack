@@ -1,6 +1,6 @@
-# 📝 EDITAPP — Application d'éditeur de texte
+# EDITAPP — Application d'éditeur de texte
 
-## 📌 Présentation
+## Présentation
 
 EDITAPP est une application web de prise de notes développée dans le cadre de ma reconversion professionnelle vers le développement web.
 
@@ -8,7 +8,7 @@ Ce projet a pour objectif de concevoir une interface permettant à l'utilisateur
 
 L'application a été réalisée en HTML, CSS et JavaScript natif, avec une attention particulière portée à la manipulation du DOM et à la gestion des sélections de texte.
 
-## 🚀 Fonctionnalités
+## Fonctionnalités
 
 - Édition de contenu textuel directement dans l'interface.
 - Manipulation du contenu de l'éditeur.
@@ -16,7 +16,7 @@ L'application a été réalisée en HTML, CSS et JavaScript natif, avec une atte
 - Interaction dynamique avec le DOM.
 - Interface utilisateur dédiée à la prise de notes.
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 | Technologie | Utilisation |
 |---|---|
@@ -27,7 +27,7 @@ L'application a été réalisée en HTML, CSS et JavaScript natif, avec une atte
 | Selection API | Gestion des sélections de texte |
 | Range API | Manipulation de portions de contenu sélectionnées |
 
-## ⚙️ Fonctionnement technique
+## Fonctionnement technique
 
 Le projet repose sur JavaScript natif afin de gérer les interactions entre l'utilisateur et l'éditeur de texte.
 
@@ -37,7 +37,7 @@ Les API `Selection` et `Range` sont utilisées pour accéder aux portions de tex
 
 Cette approche permet de travailler sur la structure du contenu édité sans recourir à une bibliothèque externe dédiée à l'édition de texte.
 
-## 💻 Installation et lancement
+## Installation et lancement
 
 ### Prérequis
 
@@ -62,7 +62,7 @@ Cette approche permet de travailler sur la structure du contenu édité sans rec
 
 Aucune installation de dépendances n'est nécessaire pour la version utilisant HTML, CSS et JavaScript natif.
 
-## 🎯 Objectifs pédagogiques
+## Objectifs pédagogiques
 
 Ce projet m'a permis de développer mes compétences en :
 
@@ -73,7 +73,7 @@ Ce projet m'a permis de développer mes compétences en :
 - Conception d'une interface web interactive.
 - Structuration d'un projet front-end.
 
-## 🔮 Améliorations envisagées
+## Améliorations envisagées
 
 Plusieurs évolutions pourraient être apportées au projet :
 
@@ -83,7 +83,7 @@ Plusieurs évolutions pourraient être apportées au projet :
 - Refactorisation avec REACT
 
 
-## 👨‍💻 Auteur
+## Auteur
 
 **David Mbougueng**
 
