@@ -4,7 +4,7 @@
 
 # Portfolio Fullstack – David Mbougueng
 
-## 📌 Présentation du projet
+## Présentation du projet
 
 Ce projet consiste en la création d'un portfolio personnel Fullstack permettant de présenter mes compétences en développement web, mes réalisations ainsi que mon parcours professionnel.
 
@@ -12,7 +12,7 @@ Développé à partir de technologies web natives, ce portfolio intègre des fon
 
 L'objectif de ce projet est de consolider mes compétences en développement Fullstack tout en concevant une application web fonctionnelle, interactive et évolutive.
 
-## 🎯 Objectifs
+## Objectifs
 
 - Concevoir une interface web responsive et interactive.
 - Développer des fonctionnalités côté frontend et backend.
@@ -22,7 +22,7 @@ L'objectif de ce projet est de consolider mes compétences en développement Ful
 - Comprendre les échanges de données entre JavaScript et PHP.
 - Appliquer les bonnes pratiques de développement et de sécurité web.
 
-## 🛠️ Technologies utilisées
+## Technologies utilisées
 
 | Technologie | Utilisation |
 |---|---|
@@ -35,7 +35,7 @@ L'objectif de ce projet est de consolider mes compétences en développement Ful
 | XAMPP | Environnement de développement local |
 | Git / GitHub | Versionnement et gestion du code source |
 
-## ✨ Fonctionnalités
+## Fonctionnalités
 
 ### Gestion des utilisateurs
 - Création de compte utilisateur.
@@ -59,7 +59,7 @@ L'objectif de ce projet est de consolider mes compétences en développement Ful
 - Utilisation de requêtes SQL via MySQLi.
 - Organisation des données utilisateurs et des interactions par projet.
 
-## 🗂️ Structure du projet
+## Structure du projet
 
 ```text
 portfolio-fullstack/
@@ -91,7 +91,7 @@ portfolio-fullstack/
 
 *Cette arborescence est indicative et peut évoluer en fonction de l'organisation finale du projet.*
 
-## 🗄️ Base de données
+## Base de données
 
 Le projet utilise une base de données MySQL pour stocker les informations nécessaires au fonctionnement des différentes fonctionnalités.
 
@@ -105,7 +105,7 @@ La connexion à la base de données est centralisée dans le fichier `connectDB.
 
 
 
-## 🔐 Sécurité
+## Sécurité
 
 Une attention particulière est portée à la sécurité des fonctionnalités backend :
 
@@ -116,7 +116,7 @@ Une attention particulière est portée à la sécurité des fonctionnalités ba
 - Utilisation de requêtes préparées MySQLi pour limiter les risques d'injection SQL.
 - Protection des informations de connexion à la base de données.
 
-## 📚 Compétences développées
+## Compétences développées
 
 Ce projet m'a permis de mettre en pratique plusieurs compétences :
 
@@ -128,7 +128,7 @@ Ce projet m'a permis de mettre en pratique plusieurs compétences :
 - Gestion des requêtes SQL et des interactions utilisateurs.
 - Organisation et versionnement du code avec Git.
 
-## 🔮 Améliorations envisagées
+## Améliorations envisagées
 
 - Renforcement de la sécurité et de la validation des données.
 - Mise en place d'un système de commentaire
@@ -139,7 +139,7 @@ Ce projet m'a permis de mettre en pratique plusieurs compétences :
 - Amélioration de la documentation technique.
 - Évolution de l'architecture du projet.
 
-## 👨‍💻 Auteur
+## Auteur
 
 **David Mbougueng**
 
